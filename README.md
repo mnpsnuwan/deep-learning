@@ -6,3 +6,7 @@
     </a>
 </div>
 
+| **Section**            | **Description**                                                                                       |
+|------------------------|-------------------------------------------------------------------------------------------------------|
+| [01. PyTorch Basics]   | Many basics PyTorch operations used for deep learning and neural networks.                            |
+| [02. PyTorch Workflow] | Provides an outline for approaching deep learning problems and building neural networks with PyTorch. |
